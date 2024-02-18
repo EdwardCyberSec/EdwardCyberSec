@@ -9,7 +9,7 @@
 - <b>Analyzing Network Attacks Using Wireshark</b>
   - [Completed Activity](https://github.com/EdwardCyberSec/analyzing-network-attacks/tree/main)
 - <b>Analyzing Network Layer Communication</b>
-  - [Completed Activity]()
+  - [Completed Activity](https://github.com/EdwardCyberSec/network-layer-communication/tree/main)
 - <b>Network Hardening</b>
   - [Completed Activity]()
 - <b>OS Hardening Techniques</b>
