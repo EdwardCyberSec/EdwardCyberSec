@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Audit - Botium Toys</b>
-  - [Completed Acitivity]()
+  - [Completed Acitivity](https://github.com/EdwardCyberSec/Security-Audit-Botium-Toys/tree/main)
 - <b>Analyzing Network Attacks Using Wireshark</b>
   - [Completed Activity]()
 - <b>Analyzing Network Layer Communication</b>
