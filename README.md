@@ -57,9 +57,7 @@
 - [Connect and Protect: Networks and Network Security | Google](https://www.coursera.org/account/accomplishments/certificate/U8FDVCP7D86Q)
 - [Tools of the Trade: Linux and SQL | Google](https://www.coursera.org/account/accomplishments/records/N2NALZ7EV2DE)
 - [Assets, Threats, and Vulnerabilities | Google](https://www.coursera.org/account/accomplishments/records/CX5JQAJQVSDX)
-- [Sound the Alarm: Detection and Response | Google]()
-- [Automate Cybersecurity Tasks with Python | Google]()
-- [Google Cybersecurity Certificate | Google]()
+
 
 
 <h2> 🤳 Connect with me:</h2>
