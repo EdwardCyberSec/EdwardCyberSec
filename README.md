@@ -11,7 +11,7 @@
 - <b>Analyzing Network Layer Communication</b>
   - [Completed Activity](https://github.com/EdwardCyberSec/network-layer-communication/tree/main)
 - <b>Network Hardening</b>
-  - [Completed Activity]()
+  - [Completed Activity](https://github.com/EdwardCyberSec/network-hardening/tree/main)
 - <b>OS Hardening Techniques</b>
   - [Completed Activity]()
 - <b>Managing File Permissions Using Linux</b>
