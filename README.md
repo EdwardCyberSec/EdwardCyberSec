@@ -17,7 +17,7 @@
 - <b>Managing File Permissions Using Linux</b>
   - [Completed Activity]()
 - <b>Applying Filters To SQL Queries</b>
-  - [Completed Activity]()
+  - [Completed Activity](https://github.com/EdwardCyberSec/apply-filters-to-SQL-queries/tree/main)
 - <b>Asset Classification</b>
   - [Completed Activity]()
 - <b>Authentication, Authorization and Accounting For A Small Business</b>
