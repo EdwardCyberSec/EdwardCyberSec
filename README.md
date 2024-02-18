@@ -1,6 +1,6 @@
 <h1>Hi, I'm Edward!
 
-  <a href="(www.linkedin.com/in/edward-rodriguez-04864129a)">Cybersecurity Professional</a></h1>
+  <a href="([www.linkedin.com/in/edward-rodriguez-04864129a](https://www.linkedin.com/in/edward-rodriguez-04864129a))">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
