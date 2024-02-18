@@ -13,7 +13,7 @@
 - <b>Network Hardening</b>
   - [Completed Activity](https://github.com/EdwardCyberSec/network-hardening/tree/main)
 - <b>OS Hardening Techniques</b>
-  - [Completed Activity]()
+  - [Completed Activity](https://github.com/EdwardCyberSec/OS-hardening-techniques)
 - <b>Managing File Permissions Using Linux</b>
   - [Completed Activity]()
 - <b>Applying Filters To SQL Queries</b>
