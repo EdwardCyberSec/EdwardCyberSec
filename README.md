@@ -15,7 +15,7 @@
 - <b>OS Hardening Techniques</b>
   - [Completed Activity](https://github.com/EdwardCyberSec/OS-hardening-techniques)
 - <b>Managing File Permissions Using Linux</b>
-  - [Completed Activity]()
+  - [Completed Activity](https://github.com/EdwardCyberSec/manage-file-permissions-in-linux/tree/main)
 - <b>Applying Filters To SQL Queries</b>
   - [Completed Activity](https://github.com/EdwardCyberSec/apply-filters-to-SQL-queries/tree/main)
 - <b>Asset Classification</b>
