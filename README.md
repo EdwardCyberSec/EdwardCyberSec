@@ -19,7 +19,7 @@
 - <b>Applying Filters To SQL Queries</b>
   - [Completed Activity](https://github.com/EdwardCyberSec/apply-filters-to-SQL-queries/tree/main)
 - <b>Asset Classification</b>
-  - [Completed Activity]()
+  - [Completed Activity](https://github.com/EdwardCyberSec/asset-classification/tree/main)
 - <b>Authentication, Authorization and Accounting For A Small Business</b>
   - [Completed Activity]()
 - <b>Attack Vectors Of A USB Drive</b>
