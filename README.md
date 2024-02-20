@@ -25,7 +25,7 @@
 - <b>Attack Vectors Of A USB Drive</b>
   - [Completed Activity](https://github.com/EdwardCyberSec/attack-vectors-of-a-USB-drive/tree/main)
 - <b>PASTA Threat Model Framework</b>
-  - [Completed Activity]()
+  - [Completed Activity](https://github.com/EdwardCyberSec/PASTA-Threat-Model-Framework)
 - <b>Documenting An Incident</b>
   - [Completed Activity]()
 - <b>Researching Network Protocol Analyzers | Wireshark & tcpdump</b>
