@@ -27,17 +27,17 @@
 - <b>PASTA Threat Model Framework</b>
   - [Completed Activity](https://github.com/EdwardCyberSec/PASTA-Threat-Model-Framework)
 - <b>Documenting An Incident</b>
-  - [Completed Activity]()
+  - [Completed Activity](https://github.com/EdwardCyberSec/Documenting-an-incident/tree/main)
 - <b>Researching Network Protocol Analyzers | Wireshark & tcpdump</b>
-  - [Completed Activity]()
+  - [Completed Activity](https://github.com/EdwardCyberSec/Network-Protocol-Analyzers/tree/main)
 - <b>Investigating A Suspicious File Hash Using Virus Total Website</b>
-  - [Completed Activity]()
+  - [Completed Activity](https://github.com/EdwardCyberSec/Investigating-a-suspicious-file-Hash/tree/main)
 - <b>Responding To A Phishing Attack Using A Playbook</b>
-  - [Completed Activity]()
+  - [Completed Activity](https://github.com/EdwardCyberSec/responding-to-a-phishing-attack-using-a-playbook/tree/main)
 - <b>Responding To A Security Incident Using NIST Cybersecurity Framework</b>
-  - [Completed Activity]()
+  - [Incomplete Activity](https://github.com/EdwardCyberSec/using-NIST-CSF-to-respond-to-an-incident/tree/main)
 - <b>Updating A File Through A Python Algorithm</b>
-  - [Completed Activity]()
+  - [Incompleted Activity]()
 
 
 <h2>💻 Technical Skills</h2>
