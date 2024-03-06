@@ -44,7 +44,7 @@
 
 - SQL
 - Linux
-- Phyton
+- Python
 - Wireshark
 - Tcpdump
 - Splunk (SIEM)
