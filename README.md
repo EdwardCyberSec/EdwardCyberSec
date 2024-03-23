@@ -57,7 +57,7 @@
 - [Connect and Protect: Networks and Network Security | Google](https://www.coursera.org/account/accomplishments/certificate/U8FDVCP7D86Q)
 - [Tools of the Trade: Linux and SQL | Google](https://www.coursera.org/account/accomplishments/records/N2NALZ7EV2DE)
 - [Assets, Threats, and Vulnerabilities | Google](https://www.coursera.org/account/accomplishments/records/CX5JQAJQVSDX)
-- [Intro to Splunk | Splunk](https://education.splunk.com/content/prodencryption/73l0pnTG7jNDHM8IiNjkdQ/1711161351/0172THVnRUI4b2ZCSURNb3JCMW5FMUVOekpJZFpaN2pSR0lra2NUbXZtNGwxRm9IK1dKc1J2RmZMa0podHN1ZkEveG1STm1UaUhDOTBUa0RwelFkMWd2SW82RUdqY1k3K1pyN1p3bmFabEJITWJnN0c3c3Fxa2VsQlJsVUx6YXJNNng=RnJpIE1hciAyMiAyMjozNTozNiBFRFQgMjAyNA==/eot/CertificateLearner_ofapr000000001359599.html)
+- [Intro to Splunk | Splunk]
 
 
 
