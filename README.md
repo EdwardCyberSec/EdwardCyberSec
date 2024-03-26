@@ -35,7 +35,7 @@
 - <b>Responding To A Phishing Attack Using A Playbook</b>
   - [Completed Activity](https://github.com/EdwardCyberSec/responding-to-a-phishing-attack-using-a-playbook/tree/main)
 - <b>Responding To A Security Incident Using NIST Cybersecurity Framework</b>
-  - [Incomplete Activity](https://github.com/EdwardCyberSec/using-NIST-CSF-to-respond-to-an-incident/tree/main)
+  - [Completed Activity](https://github.com/EdwardCyberSec/using-NIST-CSF-to-respond-to-an-incident/tree/main)
 - <b>Updating A File Through A Python Algorithm</b>
   - [Incompleted Activity]()
 
