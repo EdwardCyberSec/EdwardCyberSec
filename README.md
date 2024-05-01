@@ -37,7 +37,7 @@
 - <b>Responding To A Security Incident Using NIST Cybersecurity Framework</b>
   - [Completed Activity](https://github.com/EdwardCyberSec/using-NIST-CSF-to-respond-to-an-incident/tree/main)
 - <b>Updating A File Through A Python Algorithm</b>
-  - [Incompleted Activity]()
+  - [completed Activity](https://github.com/EdwardCyberSec/Updating-a-File-Through-a-Python-Algorithm/blob/main/README.md)
 
 
 <h2>💻 Technical Skills</h2>
