@@ -58,6 +58,7 @@
 - [Tools of the Trade: Linux and SQL | Google](https://www.coursera.org/account/accomplishments/records/N2NALZ7EV2DE)
 - [Assets, Threats, and Vulnerabilities | Google](https://www.coursera.org/account/accomplishments/records/CX5JQAJQVSDX)
 - [Sound the Alarm: Detection and Response | Google](https://www.coursera.org/account/accomplishments/records/BJ4UHTQEJCZU)
+- [Automate Cybersecurity Task with Phyton | Google](https://www.coursera.org/account/accomplishments/verify/J5E2QM7RMW8Y)
 - [Intro to Splunk | Splunk]
 
 
