@@ -59,6 +59,7 @@
 - [Assets, Threats, and Vulnerabilities | Google](https://www.coursera.org/account/accomplishments/records/CX5JQAJQVSDX)
 - [Sound the Alarm: Detection and Response | Google](https://www.coursera.org/account/accomplishments/records/BJ4UHTQEJCZU)
 - [Automate Cybersecurity Task with Phyton | Google](https://www.coursera.org/account/accomplishments/verify/J5E2QM7RMW8Y)
+- [Google Cybersecurity Certificate | Google](https://www.credly.com/badges/556d87b2-8f40-4f58-a9e0-950a81e219d7/public_url)
 - [Intro to Splunk | Splunk]
 
 
